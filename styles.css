@@ -15,12 +15,13 @@ scroll-behavior: smooth;
 body{ 
     background:black ;
     color: white;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/005/592/482/original/abstract-dark-purple-background-overlap-layer-on-dark-space-for-background-design-exclusive-wallpaper-design-for-poster-brochure-presentation-website-etc-vector.jpg')
     
 }
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url('https://static.vecteezy.com/system/resources/previews/005/592/482/original/abstract-dark-purple-background-overlap-layer-on-dark-space-for-background-design-exclusive-wallpaper-design-for-poster-brochure-presentation-website-etc-vector.jpg')
+    
 }
 .container{
     padding: 10px 10%;
