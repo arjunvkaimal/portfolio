@@ -169,4 +169,21 @@ text-decoration: none;
 transform: translateY(5px); /* Adjust the vertical displacement on hover as needed */
 }
 
+@media (max-width: 768px) {
+  .logo {
+    width: 300px;
+  }
+
+  .headertxt {
+    font-size: 30px;
+  }
+
+  .abcol1 img {
+    width: 200px;
+  }
+
+  #sub {
+    font-size: 30px;
+  }
+}
 
